@@ -63,6 +63,24 @@ No installation required.
 
 ---
 
+# 📸 Screenshots
+
+## Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+---
+
+## Gameplay
+
+![Gameplay](screenshots/gameplay.png)
+
+---
+
+## Game Over
+
+![Game Over](screenshots/gameover.png)
+
 ## 👨‍💻 Developer
 
 Created by **Ali** as part of a 2D Game Development Bootcamp project.
