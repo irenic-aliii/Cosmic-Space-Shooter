@@ -67,19 +67,19 @@ No installation required.
 
 ## Main Menu
 
-![Main Menu](screenshots/menu.png)
+![Main Menu](menu.png)
 
 ---
 
 ## Gameplay
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](gameplay.png)
 
 ---
 
 ## Game Over
 
-![Game Over](screenshots/gameover.png)
+![Game Over](gameover.png)
 
 ## 👨‍💻 Developer
 
